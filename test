@@ -1,0 +1,6 @@
+{
+   "enabled": true,
+   "target_link": "https://www.unityapp.dev/test",
+   "target_bannerLink": "https://www.unityapp.dev/test/congrats",
+   "interval": 1
+}
